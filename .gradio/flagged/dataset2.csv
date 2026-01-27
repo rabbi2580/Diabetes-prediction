@@ -1,0 +1,3 @@
+Pregnancies,Glucose,Blood Pressure,Skin Thickness,Insulin,BMI,Diabetes Pedigree Function,Age,output,timestamp
+0,250,150,20,5,25,0.5,30,"Prediction: 🟥 Diabetic
+Diabetes Probability: 51.47%",2026-01-27 04:30:10.922564
